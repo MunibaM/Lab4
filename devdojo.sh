@@ -1,2 +1,7 @@
+ 
+#!/bin/bash
 
-echo "Hello World!" 
+echo "Hello please" $1
+
+
+
